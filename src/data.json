@@ -1,0 +1,2736 @@
+[
+  {
+    "id": "0",
+    "rels": {
+      "spouses": [
+        "1"
+      ],
+      "children": [
+        "2"
+      ]
+    },
+    "data": {
+      "first name": "Name",
+      "last name": "Surname",
+      "birthday": 1970,
+      "gender": "M",
+      "firstName": "Hilderic",
+      "lastName": "King of the Franks",
+      "birthDate": "180 AD",
+      "image": "",
+      "deathDate": "253 AD",
+      "birthPlace": "Cologne, Germany",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": ""
+    }
+  },
+  {
+    "id": "1",
+    "data": {
+      "gender": "F",
+      "firstName": "Hastila ",
+      "lastName": "Karana Queen of the Franks",
+      "birthDate": "180 AD",
+      "image": "",
+      "deathDate": "237 AD",
+      "birthPlace": "Paris, France",
+      "deathPlace": "Nordrhein-Westfalen, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": ""
+    },
+    "rels": {
+      "spouses": [
+        "0"
+      ],
+      "children": [
+        "2"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "data": {
+      "gender": "M",
+      "firstName": "King Marcomir",
+      "lastName": "of Toxandria",
+      "birthDate": "220 AD",
+      "image": "",
+      "deathDate": "281 AD",
+      "birthPlace": "Tongeren, Belgium",
+      "deathPlace": "Vexin, France",
+      "prefix": "",
+      "suffix": "",
+      "description": ""
+    },
+    "rels": {
+      "mother": "1",
+      "father": "0",
+      "spouses": [
+        "3"
+      ],
+      "children": [
+        "4"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "data": {
+      "gender": "F",
+      "firstName": "Faustia ",
+      "lastName": "Asinia Juliana",
+      "birthDate": "225 AD",
+      "image": "",
+      "deathDate": "289 AD",
+      "birthPlace": "Belgium, Roman Empire",
+      "deathPlace": "France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "2"
+      ],
+      "children": [
+        "4"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "data": {
+      "gender": "M",
+      "firstName": "Chrocus ",
+      "lastName": "Chraie d'Alemanie",
+      "birthDate": "240 AD",
+      "image": "",
+      "deathDate": "319 AD",
+      "birthPlace": "Alemaine, Germany",
+      "deathPlace": "Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "3",
+      "father": "2",
+      "spouses": [
+        "5"
+      ],
+      "children": [
+        "6"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "data": {
+      "gender": "F",
+      "firstName": "Priarios ",
+      "lastName": "de Toxandria",
+      "birthDate": "250 AD",
+      "image": "",
+      "deathDate": "307 AD",
+      "birthPlace": "Lombardia, Italy",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "4"
+      ],
+      "children": [
+        "6"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "data": {
+      "gender": "M",
+      "firstName": "Wadomaire",
+      "lastName": "von Schwaben Suevo",
+      "birthDate": "280 AD",
+      "image": "",
+      "deathDate": "340 AD",
+      "birthPlace": "Schwaben, Germany",
+      "deathPlace": "Denmark",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "5",
+      "father": "4",
+      "spouses": [
+        "7"
+      ],
+      "children": [
+        "8"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "data": {
+      "gender": "F",
+      "firstName": "Gibica ",
+      "lastName": "of Burgundy",
+      "birthDate": "275 AD",
+      "image": "",
+      "deathDate": "310 AD",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "6"
+      ],
+      "children": [
+        "8"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "data": {
+      "gender": "M",
+      "firstName": "Chrocus Carwig ",
+      "lastName": "von Thuringen",
+      "birthDate": "300 AD",
+      "image": "",
+      "deathDate": "370 AD",
+      "birthPlace": "Erfurt, Thuringia, Germany",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "7",
+      "father": "6",
+      "spouses": [
+        "9"
+      ],
+      "children": [
+        "10"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "8"
+      ],
+      "children": [
+        "10"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "data": {
+      "gender": "M",
+      "firstName": "Argotta ",
+      "lastName": "Sicambrian Rosamunde Franken",
+      "birthDate": "335 AD",
+      "image": "",
+      "deathDate": "438 AD",
+      "birthPlace": "Unknown",
+      "deathPlace": "Nordrhein-Westfalen, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "9",
+      "father": "8",
+      "spouses": [
+        "11"
+      ],
+      "children": [
+        "12"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "data": {
+      "gender": "F",
+      "firstName": "Merwig ",
+      "last name": "von Thuringen",
+      "birthDate": "329 AD",
+      "image": "",
+      "deathDate": "426 AD",
+      "birthPlace": "Ebersburg, Thuringia, Germany",
+      "deathPlace": "Thuringia, Germany",
+      "prefix": "",
+      "suffix": "I",
+      "description": "",
+      "middleName": "",
+      "lastName": "von Thüringen"
+    },
+    "rels": {
+      "spouses": [
+        "10"
+      ],
+      "children": [
+        "12"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "data": {
+      "gender": "M",
+      "firstName": "Widelphus",
+      "last name": "of Thüringen",
+      "birthDate": "350 AD",
+      "image": "",
+      "deathDate": "08/29/408",
+      "birthPlace": "Thuringia, Alemannia",
+      "deathPlace": "Sachsen, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": "",
+      "lastName": "of Thüringen"
+    },
+    "rels": {
+      "mother": "11",
+      "father": "10",
+      "spouses": [
+        "13"
+      ],
+      "children": [
+        "14"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "data": {
+      "gender": "F",
+      "firstName": "Amalaberge ",
+      "lastName": "of The Amalings",
+      "birthDate": "(360-370 AD)",
+      "image": "",
+      "deathDate": "443 AD",
+      "birthPlace": "Cauca, Spain",
+      "deathPlace": "Reino, Italy",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "12"
+      ],
+      "children": [
+        "14"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "data": {
+      "gender": "M",
+      "firstName": "Hunno",
+      "lastName": "King of the Alamanni Velphio",
+      "birthDate": "385 AD",
+      "image": "",
+      "deathDate": "after 416 AD",
+      "birthPlace": "Lombardia, Italy",
+      "deathPlace": "Bayern, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "13",
+      "father": "12",
+      "spouses": [
+        "15"
+      ],
+      "children": [
+        "16"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "data": {
+      "gender": "F",
+      "firstName": "Agilofing ",
+      "lastName": "Alamanni ",
+      "birthDate": "385 AD",
+      "image": "",
+      "deathDate": "415 AD",
+      "birthPlace": "Bayern, Germany",
+      "deathPlace": "Bayern, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "14"
+      ],
+      "children": [
+        "16"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "data": {
+      "gender": "M",
+      "firstName": "Adalger ",
+      "lastName": "Agilolfing, King of Bavaria ",
+      "birthDate": "11/23/405",
+      "image": "",
+      "deathDate": "05/07/508",
+      "birthPlace": "Agilolfingien, Germany",
+      "deathPlace": "Sachsen, Germany",
+      "prefix": "",
+      "suffix": "I",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "15",
+      "father": "14",
+      "spouses": [
+        "17"
+      ],
+      "children": [
+        "0.38318672707097057"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "data": {
+      "gender": "F",
+      "firstName": "Marie ",
+      "lastName": "de Bourgogne",
+      "birthDate": "437 AD",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Bourgogne, France",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "16"
+      ],
+      "children": [
+        "0.38318672707097057"
+      ]
+    }
+  },
+  {
+    "id": "0.38318672707097057",
+    "data": {
+      "gender": "M",
+      "firstName": "Agilulf",
+      "lastName": "Agilolfing",
+      "birthDate": "470 AD",
+      "image": "",
+      "deathDate": "512",
+      "birthPlace": "Baden-Württemberg, Germany",
+      "deathPlace": "Baden-Württemberg, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "17",
+      "father": "16",
+      "spouses": [
+        "0.14841768523865695"
+      ],
+      "children": [
+        "0.34269085192615245"
+      ]
+    }
+  },
+  {
+    "id": "0.14841768523865695",
+    "data": {
+      "gender": "F",
+      "firstName": "Regnaberga ",
+      "lastName": "de Bourgigne",
+      "birthDate": "470 AD",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.38318672707097057"
+      ],
+      "children": [
+        "0.34269085192615245"
+      ]
+    }
+  },
+  {
+    "id": "0.34269085192615245",
+    "data": {
+      "gender": "M",
+      "firstName": "Theodebert ",
+      "lastName": "Agilofinges",
+      "birthDate": "500",
+      "image": "",
+      "deathDate": "535",
+      "birthPlace": "Bayern, Germany",
+      "deathPlace": "Bayern, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.14841768523865695",
+      "father": "0.38318672707097057",
+      "spouses": [
+        "0.49365578061558435"
+      ],
+      "children": [
+        "0.9429180836572821"
+      ]
+    }
+  },
+  {
+    "id": "0.49365578061558435",
+    "data": {
+      "gender": "F",
+      "firstName": "Deoteria",
+      "lastName": "de Narbonne ",
+      "birthDate": "503",
+      "image": "",
+      "deathDate": "548",
+      "birthPlace": "Narbonne",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.34269085192615245"
+      ],
+      "children": [
+        "0.9429180836572821"
+      ]
+    }
+  },
+  {
+    "id": "0.9429180836572821",
+    "data": {
+      "gender": "M",
+      "firstName": "Gondoald",
+      "lastName": "Agilofinges, Count of Meaux",
+      "birthDate": "524",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Bayern, Germany",
+      "deathPlace": "Meaux, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.49365578061558435",
+      "father": "0.34269085192615245",
+      "spouses": [
+        "0.27014783950888477"
+      ],
+      "children": [
+        "0.7381590604590438"
+      ]
+    }
+  },
+  {
+    "id": "0.27014783950888477",
+    "data": {
+      "gender": "F",
+      "firstName": "Itta",
+      "lastName": "de Gascony ???",
+      "birthDate": "560",
+      "image": "",
+      "deathDate": "612",
+      "birthPlace": "Gascony, Fance",
+      "deathPlace": "France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9429180836572821"
+      ],
+      "children": [
+        "0.7381590604590438"
+      ]
+    }
+  },
+  {
+    "id": "0.7381590604590438",
+    "data": {
+      "gender": "M",
+      "firstName": "Garnier",
+      "lastName": "Bourgogne de Treves ???",
+      "birthDate": "552",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.27014783950888477",
+      "father": "0.9429180836572821",
+      "spouses": [
+        "0.09682886756864972"
+      ],
+      "children": [
+        "0.9945225655164724"
+      ]
+    }
+  },
+  {
+    "id": "0.09682886756864972",
+    "data": {
+      "gender": "F",
+      "firstName": "Unknown",
+      "lastName": "Unknown",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.7381590604590438"
+      ],
+      "children": [
+        "0.9945225655164724"
+      ]
+    }
+  },
+  {
+    "id": "0.9945225655164724",
+    "data": {
+      "gender": "M",
+      "firstName": "Ansound",
+      "lastName": "Treves of Saint Luitvin",
+      "birthDate": "575",
+      "image": "",
+      "deathDate": "664",
+      "birthPlace": "Mettlach, Germany",
+      "deathPlace": "Bourgogne, France",
+      "prefix": "Bishop",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.09682886756864972",
+      "father": "0.7381590604590438",
+      "spouses": [
+        "0.8133949520078729"
+      ],
+      "children": [
+        "0.20243898123538062"
+      ]
+    }
+  },
+  {
+    "id": "0.8133949520078729",
+    "data": {
+      "gender": "F",
+      "firstName": "Adele",
+      "lastName": "de Meaux ???",
+      "birthDate": "before 580",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Meaux, France",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9945225655164724"
+      ],
+      "children": [
+        "0.20243898123538062"
+      ]
+    }
+  },
+  {
+    "id": "0.20243898123538062",
+    "data": {
+      "gender": "M",
+      "firstName": "Bodilon ",
+      "lastName": "de Bourgogne",
+      "birthDate": "615",
+      "image": "",
+      "deathDate": "643",
+      "birthPlace": "Autun, Saone Et Loire, France",
+      "deathPlace": "Treves, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.8133949520078729",
+      "father": "0.9945225655164724",
+      "spouses": [
+        "0.4655319320929503"
+      ],
+      "children": [
+        "0.9888654651387587"
+      ]
+    }
+  },
+  {
+    "id": "0.4655319320929503",
+    "data": {
+      "gender": "F",
+      "firstName": "Sigrade",
+      "lastName": "de Alsace",
+      "birthDate": "c. 600",
+      "image": "",
+      "deathDate": "677",
+      "birthPlace": "Soissons, France",
+      "deathPlace": "Metz, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.20243898123538062"
+      ],
+      "children": [
+        "0.9888654651387587"
+      ]
+    }
+  },
+  {
+    "id": "0.9888654651387587",
+    "data": {
+      "gender": "M",
+      "firstName": "Guerin",
+      "lastName": "de Poitiers",
+      "birthDate": "630",
+      "image": "",
+      "deathDate": "677",
+      "birthPlace": "Autun, Saone Et Loire, France",
+      "deathPlace": "Treves, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.4655319320929503",
+      "father": "0.20243898123538062",
+      "spouses": [
+        "0.5217613627483828"
+      ],
+      "children": [
+        "0.7070452175587643"
+      ]
+    }
+  },
+  {
+    "id": "0.5217613627483828",
+    "data": {
+      "gender": "F",
+      "firstName": "Gunza",
+      "lastName": "de Treves",
+      "birthDate": "c. 630",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Alsace, France",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9888654651387587"
+      ],
+      "children": [
+        "0.7070452175587643"
+      ]
+    }
+  },
+  {
+    "id": "0.7070452175587643",
+    "data": {
+      "gender": "M",
+      "firstName": "Lambert ",
+      "lastName": "de Hesbaye",
+      "birthDate": "677",
+      "image": "",
+      "deathDate": "725",
+      "birthPlace": "Austrasia, France",
+      "deathPlace": "Mettlach, Saarland, Germany",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.5217613627483828",
+      "father": "0.9888654651387587",
+      "spouses": [
+        "0.6027325223419397"
+      ],
+      "children": [
+        "0.7467722212959349"
+      ]
+    }
+  },
+  {
+    "id": "0.6027325223419397",
+    "data": {
+      "gender": "F",
+      "firstName": "Clothilde",
+      "lastName": "der Merovingen",
+      "birthDate": "677",
+      "image": "",
+      "deathDate": "708",
+      "birthPlace": "France",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.7070452175587643"
+      ],
+      "children": [
+        "0.7467722212959349"
+      ]
+    }
+  },
+  {
+    "id": "0.7467722212959349",
+    "data": {
+      "gender": "M",
+      "firstName": "Robert",
+      "lastName": "Count of Hesbaye",
+      "birthDate": "697",
+      "image": "",
+      "deathDate": "764",
+      "birthPlace": "Hesbaye, Liege, Belgium",
+      "deathPlace": "France",
+      "prefix": "I",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6027325223419397",
+      "father": "0.7070452175587643",
+      "spouses": [
+        "0.9761200716149179"
+      ],
+      "children": [
+        "0.17289385222236842"
+      ]
+    }
+  },
+  {
+    "id": "0.9761200716149179",
+    "data": {
+      "gender": "F",
+      "firstName": "Willis",
+      "lastName": "Winlliswinda",
+      "birthDate": "700",
+      "image": "",
+      "deathDate": "750",
+      "birthPlace": "Hesbaye, Belgium",
+      "deathPlace": "France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.7467722212959349"
+      ],
+      "children": [
+        "0.17289385222236842"
+      ]
+    }
+  },
+  {
+    "id": "0.17289385222236842",
+    "data": {
+      "gender": "M",
+      "firstName": "Guerin",
+      "lastName": "Count of Thurgovie",
+      "birthDate": "c. 725",
+      "image": "",
+      "deathDate": "05/20/772",
+      "birthPlace": "Thurgau, Canton, Switzerland",
+      "deathPlace": "Narbonne, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.9761200716149179",
+      "father": "0.7467722212959349",
+      "spouses": [
+        "0.6094920420750711"
+      ],
+      "children": [
+        "0.5756423314486703"
+      ]
+    }
+  },
+  {
+    "id": "0.6094920420750711",
+    "data": {
+      "gender": "F",
+      "firstName": "Adelindis",
+      "lastName": "de Burgundy",
+      "birthDate": "c. 720",
+      "image": "",
+      "deathDate": "c. 770",
+      "birthPlace": "Burgandy, France",
+      "deathPlace": "France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.17289385222236842"
+      ],
+      "children": [
+        "0.5756423314486703"
+      ]
+    }
+  },
+  {
+    "id": "0.5756423314486703",
+    "data": {
+      "gender": "M",
+      "firstName": "Bouchard",
+      "lastName": "de Hesbaye",
+      "birthDate": "750",
+      "image": "",
+      "deathDate": "811",
+      "birthPlace": "Narbonne, France",
+      "deathPlace": "Vexin, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6094920420750711",
+      "father": "0.17289385222236842",
+      "spouses": [
+        "0.6409696815674755"
+      ],
+      "children": [
+        "0.8360681712013072"
+      ]
+    }
+  },
+  {
+    "id": "0.6409696815674755",
+    "data": {
+      "gender": "F",
+      "firstName": "Adelindis",
+      "lastName": "Corsica ???",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.5756423314486703"
+      ],
+      "children": [
+        "0.8360681712013072"
+      ]
+    }
+  },
+  {
+    "id": "0.8360681712013072",
+    "data": {
+      "gender": "M",
+      "firstName": "Aubri “The Burgundian”",
+      "lastName": "of Fezensac",
+      "birthDate": "c. 775",
+      "image": "",
+      "deathDate": "801",
+      "birthPlace": "Fezensac, France",
+      "deathPlace": "Fezensac, France",
+      "prefix": "Count",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6409696815674755",
+      "father": "0.5756423314486703",
+      "spouses": [
+        "0.9555796191417893"
+      ],
+      "children": [
+        "0.3085516877714787"
+      ]
+    }
+  },
+  {
+    "id": "0.9555796191417893",
+    "data": {
+      "gender": "F",
+      "firstName": "Unknown of Bourgogne",
+      "lastName": "Unknown",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.8360681712013072"
+      ],
+      "children": [
+        "0.3085516877714787"
+      ]
+    }
+  },
+  {
+    "id": "0.3085516877714787",
+    "data": {
+      "gender": "M",
+      "firstName": "Bouchard",
+      "lastName": "de Fezensac",
+      "birthDate": "c. 800",
+      "image": "",
+      "deathDate": "c. 876",
+      "birthPlace": "Fezensac, France",
+      "deathPlace": "Orleans, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.9555796191417893",
+      "father": "0.8360681712013072",
+      "spouses": [
+        "0.1569174083199505"
+      ],
+      "children": [
+        "0.8869699613846513"
+      ]
+    }
+  },
+  {
+    "id": "0.1569174083199505",
+    "data": {
+      "gender": "F",
+      "firstName": "Bava",
+      "lastName": "de Tours",
+      "birthDate": "c. 790",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Tours, France",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.3085516877714787"
+      ],
+      "children": [
+        "0.8869699613846513"
+      ]
+    }
+  },
+  {
+    "id": "0.8869699613846513",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "Gatinais of Orleans",
+      "birthDate": "825",
+      "image": "",
+      "deathDate": "877",
+      "birthPlace": "Orleans, France",
+      "deathPlace": "Orleans, France",
+      "prefix": "",
+      "suffix": "I",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.1569174083199505",
+      "father": "0.3085516877714787",
+      "spouses": [
+        "0.26627729069677475"
+      ],
+      "children": [
+        "0.9376996276869636"
+      ]
+    }
+  },
+  {
+    "id": "0.26627729069677475",
+    "data": {
+      "gender": "F",
+      "firstName": "Ava [Aba]",
+      "lastName": "d'AQuvergne",
+      "birthDate": "c. 802",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Auvergne, France",
+      "deathPlace": "Auvergne, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.8869699613846513"
+      ],
+      "children": [
+        "0.9376996276869636"
+      ]
+    }
+  },
+  {
+    "id": "0.9376996276869636",
+    "data": {
+      "gender": "M",
+      "firstName": "Aubri",
+      "lastName": "of Orleans",
+      "birthDate": "Orleans, France",
+      "image": "",
+      "deathDate": "Orleans, France",
+      "birthPlace": "850",
+      "deathPlace": "886",
+      "prefix": "Viscount",
+      "suffix": "II",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.26627729069677475",
+      "father": "0.8869699613846513",
+      "spouses": [
+        "0.7659027897725095"
+      ],
+      "children": [
+        "0.9205106235474514"
+      ]
+    }
+  },
+  {
+    "id": "0.7659027897725095",
+    "data": {
+      "gender": "F",
+      "firstName": "Ava",
+      "lastName": "de Orleans",
+      "birthDate": "850",
+      "image": "",
+      "deathDate": "886",
+      "birthPlace": "Orleans, France",
+      "deathPlace": "Orleans, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9376996276869636"
+      ],
+      "children": [
+        "0.9205106235474514"
+      ]
+    }
+  },
+  {
+    "id": "0.9205106235474514",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "of Orleans",
+      "birthDate": "c. 875",
+      "image": "",
+      "deathDate": "c. 942",
+      "birthPlace": "Orleans, France",
+      "deathPlace": "Gatinais, France",
+      "prefix": "Viscount",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.7659027897725095",
+      "father": "0.9376996276869636",
+      "spouses": [
+        "0.587373300938381"
+      ],
+      "children": [
+        "0.17628156373669146"
+      ]
+    }
+  },
+  {
+    "id": "0.587373300938381",
+    "data": {
+      "gender": "F",
+      "firstName": "Ava",
+      "lastName": "de Arverne",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9205106235474514"
+      ],
+      "children": [
+        "0.17628156373669146"
+      ]
+    }
+  },
+  {
+    "id": "0.17628156373669146",
+    "data": {
+      "gender": "M",
+      "firstName": "Aubri",
+      "lastName": "Gatiniais",
+      "birthDate": "900",
+      "image": "",
+      "deathDate": "c. 966",
+      "birthPlace": "Gatinais, France",
+      "deathPlace": "Gatinais, France",
+      "prefix": "Count",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.587373300938381",
+      "father": "0.9205106235474514",
+      "spouses": [
+        "0.795413344170649"
+      ],
+      "children": [
+        "0.07597103264552518"
+      ]
+    }
+  },
+  {
+    "id": "0.795413344170649",
+    "data": {
+      "gender": "F",
+      "firstName": "Gerberge",
+      "lastName": "de Gatinais",
+      "birthDate": "899",
+      "image": "",
+      "deathDate": "952",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.17628156373669146"
+      ],
+      "children": [
+        "0.07597103264552518"
+      ]
+    }
+  },
+  {
+    "id": "0.07597103264552518",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "Gatinais",
+      "birthDate": "11/11/925",
+      "image": "",
+      "deathDate": "987",
+      "birthPlace": "Gatiniais, France",
+      "deathPlace": "Sein-Et Marne, France",
+      "prefix": "Viscount",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.795413344170649",
+      "father": "0.17628156373669146",
+      "spouses": [
+        "0.030120975487718082"
+      ],
+      "children": [
+        "0.5896520363667221"
+      ]
+    }
+  },
+  {
+    "id": "0.030120975487718082",
+    "data": {
+      "gender": "F",
+      "firstName": "Unknown",
+      "lastName": "Unknown",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.07597103264552518"
+      ],
+      "children": [
+        "0.5896520363667221"
+      ]
+    }
+  },
+  {
+    "id": "0.5896520363667221",
+    "data": {
+      "gender": "M",
+      "firstName": "Aubri",
+      "lastName": "of the Gatinais",
+      "birthDate": "950",
+      "image": "",
+      "deathDate": "c. 990",
+      "birthPlace": "Gatinais, France",
+      "deathPlace": "Gatinais, France",
+      "prefix": "Count",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.030120975487718082",
+      "father": "0.07597103264552518",
+      "spouses": [
+        "0.6199872029453866"
+      ],
+      "children": [
+        "0.6484710882626443"
+      ]
+    }
+  },
+  {
+    "id": "0.6199872029453866",
+    "data": {
+      "gender": "F",
+      "firstName": "Louisa",
+      "lastName": "Moreaux",
+      "birthDate": "Unknown",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Unknown",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.5896520363667221"
+      ],
+      "children": [
+        "0.6484710882626443"
+      ]
+    }
+  },
+  {
+    "id": "0.6484710882626443",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "of Gatinais",
+      "birthDate": "970",
+      "image": "",
+      "deathDate": "01/01/1046",
+      "birthPlace": "Gatinais, France",
+      "deathPlace": "Anjou, France",
+      "prefix": "Count",
+      "suffix": "I",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6199872029453866",
+      "father": "0.5896520363667221",
+      "spouses": [
+        "0.3612319504231223"
+      ],
+      "children": [
+        "0.3974999202239631"
+      ]
+    }
+  },
+  {
+    "id": "0.3612319504231223",
+    "data": {
+      "gender": "F",
+      "firstName": "Beatrice",
+      "lastName": "de Macon",
+      "birthDate": "974",
+      "image": "",
+      "deathDate": "06/21/1040",
+      "birthPlace": "Macon, France",
+      "deathPlace": "Metz, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6484710882626443"
+      ],
+      "children": [
+        "0.3974999202239631"
+      ]
+    }
+  },
+  {
+    "id": "0.3974999202239631",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "of Gatinais",
+      "birthDate": "c. 1000",
+      "image": "",
+      "deathDate": "04/01/1046",
+      "birthPlace": "Chateau Landon, France",
+      "deathPlace": "Anjou, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.3612319504231223",
+      "father": "0.6484710882626443",
+      "spouses": [
+        "0.5916104992136957"
+      ],
+      "children": [
+        "0.464207386137079"
+      ]
+    }
+  },
+  {
+    "id": "0.5916104992136957",
+    "data": {
+      "gender": "F",
+      "firstName": "Ermengarde",
+      "lastName": "d Anjou",
+      "birthDate": "1018",
+      "image": "",
+      "deathDate": "03/18/1076",
+      "birthPlace": "Anjou, France",
+      "deathPlace": "Fleury-Sur-Ouche, Anjou, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.3974999202239631"
+      ],
+      "children": [
+        "0.464207386137079"
+      ]
+    }
+  },
+  {
+    "id": "0.464207386137079",
+    "data": {
+      "gender": "M",
+      "firstName": "Fulk",
+      "lastName": "of Anjou",
+      "birthDate": "1043",
+      "image": "",
+      "deathDate": "04/14/1109",
+      "birthPlace": "Angoulême, France",
+      "deathPlace": "Anjou, France",
+      "prefix": "Count",
+      "suffix": "IV",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.5916104992136957",
+      "father": "0.3974999202239631",
+      "spouses": [
+        "0.906399174804261"
+      ],
+      "children": [
+        "0.02054431510462118"
+      ]
+    }
+  },
+  {
+    "id": "0.906399174804261",
+    "data": {
+      "gender": "F",
+      "firstName": "Bertrade",
+      "lastName": "de Montfort",
+      "birthDate": "May 1059",
+      "image": "",
+      "deathDate": "02/14/1117",
+      "birthPlace": "Montfort, France",
+      "deathPlace": "Yvelines, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.464207386137079"
+      ],
+      "children": [
+        "0.02054431510462118"
+      ]
+    }
+  },
+  {
+    "id": "0.02054431510462118",
+    "data": {
+      "gender": "M",
+      "firstName": "Fulk The Younger",
+      "lastName": "of Anjou",
+      "birthDate": "1092",
+      "image": "",
+      "deathDate": "11/10/1143",
+      "birthPlace": "Angers, France",
+      "deathPlace": "Church of the Holy, Sepulchre, Jerusalem, Israel",
+      "prefix": "King of Jerusalem",
+      "suffix": "V",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.906399174804261",
+      "father": "0.464207386137079",
+      "spouses": [
+        "0.28464187820747444"
+      ],
+      "children": [
+        "0.8898168405066882"
+      ]
+    }
+  },
+  {
+    "id": "0.28464187820747444",
+    "data": {
+      "gender": "F",
+      "firstName": "Ermengarde",
+      "lastName": "of Maine",
+      "birthDate": "07/01/1092",
+      "image": "",
+      "deathDate": "01/15/1126",
+      "birthPlace": "Maine, France",
+      "deathPlace": "01/15/1126",
+      "prefix": "Countess",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.02054431510462118"
+      ],
+      "children": [
+        "0.8898168405066882"
+      ]
+    }
+  },
+  {
+    "id": "0.8898168405066882",
+    "data": {
+      "gender": "M",
+      "firstName": "Geoffrey",
+      "lastName": "Plantagenet",
+      "birthDate": "08/24/1113",
+      "image": "",
+      "deathDate": "09/07/1151",
+      "birthPlace": "Anjou, France",
+      "deathPlace": "Chateau Euro-Et-Loire, France",
+      "prefix": "",
+      "suffix": "V",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.28464187820747444",
+      "father": "0.02054431510462118",
+      "spouses": [
+        "0.987071549783342"
+      ],
+      "children": [
+        "0.7428528642375003"
+      ]
+    }
+  },
+  {
+    "id": "0.987071549783342",
+    "data": {
+      "gender": "F",
+      "firstName": "Matilda",
+      "lastName": "Princess of the England",
+      "birthDate": "08/05/1102",
+      "image": "",
+      "deathDate": "09/10/1159",
+      "birthPlace": "London, England",
+      "deathPlace": "Notre Dame Roeun, France",
+      "prefix": "Empress",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.8898168405066882"
+      ],
+      "children": [
+        "0.7428528642375003"
+      ]
+    }
+  },
+  {
+    "id": "0.7428528642375003",
+    "data": {
+      "gender": "M",
+      "firstName": "Henry",
+      "lastName": "Plantagenet",
+      "birthDate": "03/05/1133",
+      "image": "",
+      "deathDate": "07/06/1189",
+      "birthPlace": "Le Mans, France",
+      "deathPlace": "Chinon, France",
+      "prefix": "King",
+      "suffix": "II of England",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.987071549783342",
+      "father": "0.8898168405066882",
+      "spouses": [
+        "0.5543563204806943"
+      ],
+      "children": [
+        "0.7212561153158856"
+      ]
+    }
+  },
+  {
+    "id": "0.5543563204806943",
+    "data": {
+      "gender": "F",
+      "firstName": "Eleanor",
+      "lastName": "of Aquitaine",
+      "birthDate": "1122",
+      "image": "",
+      "deathDate": "1202",
+      "birthPlace": "Aquitaine, France",
+      "deathPlace": "Mirabeli Castle, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.7428528642375003"
+      ],
+      "children": [
+        "0.7212561153158856"
+      ]
+    }
+  },
+  {
+    "id": "0.7212561153158856",
+    "data": {
+      "gender": "M",
+      "firstName": "John",
+      "lastName": "Lackland Plantagenet",
+      "birthDate": "12/24/1116",
+      "image": "",
+      "deathDate": "10/12/1216",
+      "birthPlace": "Oxfordshire, UK",
+      "deathPlace": "Nottingham, UK",
+      "prefix": "King ",
+      "suffix": "I",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.5543563204806943",
+      "father": "0.7428528642375003",
+      "spouses": [
+        "0.7259061709603096"
+      ],
+      "children": [
+        "0.6165907227939829"
+      ]
+    }
+  },
+  {
+    "id": "0.7259061709603096",
+    "data": {
+      "gender": "F",
+      "firstName": "Isabella",
+      "lastName": "de Taillefer",
+      "birthDate": "1188",
+      "image": "",
+      "deathDate": "05/31/1247",
+      "birthPlace": "Angouleme, France",
+      "deathPlace": "Fontevault, France",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.7212561153158856"
+      ],
+      "children": [
+        "0.6165907227939829"
+      ]
+    }
+  },
+  {
+    "id": "0.6165907227939829",
+    "data": {
+      "gender": "M",
+      "firstName": "Henry",
+      "lastName": "Plantagenet",
+      "birthDate": "10/01/1207",
+      "image": "",
+      "deathDate": "11/10/1272",
+      "birthPlace": "Winchester, UK",
+      "deathPlace": "Westminster, UK",
+      "prefix": "King",
+      "suffix": "III of England",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.7259061709603096",
+      "father": "0.7212561153158856",
+      "spouses": [
+        "0.5150386280952315"
+      ],
+      "children": [
+        "0.6416152644066893"
+      ]
+    }
+  },
+  {
+    "id": "0.5150386280952315",
+    "data": {
+      "gender": "F",
+      "firstName": "Eleanor",
+      "lastName": "de Provence",
+      "birthDate": "1222",
+      "image": "",
+      "deathDate": "06/12/1291",
+      "birthPlace": "Aix en Provence, France",
+      "deathPlace": "Amesbury, UK",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6165907227939829"
+      ],
+      "children": [
+        "0.6416152644066893"
+      ]
+    }
+  },
+  {
+    "id": "0.6416152644066893",
+    "data": {
+      "gender": "M",
+      "firstName": "Edmund",
+      "lastName": "Crouchback Plantagenet",
+      "birthDate": "01/16/1245",
+      "image": "",
+      "deathDate": "06/05/1286",
+      "birthPlace": "London, UK",
+      "deathPlace": "Bayonne, France",
+      "prefix": "",
+      "suffix": "1st Earl of Lancaster",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.5150386280952315",
+      "father": "0.6165907227939829",
+      "spouses": [
+        "0.9513724586450578"
+      ],
+      "children": [
+        "0.2990377172066474"
+      ]
+    }
+  },
+  {
+    "id": "0.9513724586450578",
+    "data": {
+      "gender": "F",
+      "firstName": "Blanche",
+      "lastName": "d'Artois of Navarre",
+      "birthDate": "1248",
+      "image": "",
+      "deathDate": "05/02/1302",
+      "birthPlace": "Arras, France",
+      "deathPlace": "Paris, France",
+      "prefix": "Queen",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6416152644066893"
+      ],
+      "children": [
+        "0.2990377172066474"
+      ]
+    }
+  },
+  {
+    "id": "0.2990377172066474",
+    "data": {
+      "gender": "M",
+      "firstName": "Henry",
+      "lastName": "Plantagenet",
+      "birthDate": "1281",
+      "image": "",
+      "deathDate": "09/22/1345",
+      "birthPlace": "Grismond Castle, UK",
+      "deathPlace": "Monastery of Canon, UK",
+      "prefix": "",
+      "suffix": "3rd Earl of Lancaster",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.9513724586450578",
+      "father": "0.6416152644066893",
+      "spouses": [
+        "0.4748598086361957"
+      ],
+      "children": [
+        "0.017078535342203827"
+      ]
+    }
+  },
+  {
+    "id": "0.4748598086361957",
+    "data": {
+      "gender": "F",
+      "firstName": "Maud",
+      "lastName": "de Chaworth",
+      "birthDate": "1281",
+      "image": "",
+      "deathDate": "12/02/1322",
+      "birthPlace": "Kiwelly, Wales",
+      "deathPlace": "Mottisford Priory, UK",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.2990377172066474"
+      ],
+      "children": [
+        "0.017078535342203827"
+      ]
+    }
+  },
+  {
+    "id": "0.017078535342203827",
+    "data": {
+      "gender": "F",
+      "firstName": "Eleanor",
+      "lastName": "Plantagenet",
+      "birthDate": "1311",
+      "image": "",
+      "deathDate": "01/11/1372",
+      "birthPlace": "Grismond Castle, UK",
+      "deathPlace": "Arundel, UK",
+      "prefix": "",
+      "suffix": "Countess of Arundel",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.4748598086361957",
+      "father": "0.2990377172066474",
+      "spouses": [
+        "0.5510058666787068"
+      ],
+      "children": [
+        "0.4238733037515199"
+      ]
+    }
+  },
+  {
+    "id": "0.5510058666787068",
+    "data": {
+      "gender": "M",
+      "firstName": "John",
+      "lastName": "de Beaumont",
+      "birthDate": "12/25/1317",
+      "image": "",
+      "deathDate": "05/10/1342",
+      "birthPlace": "Bortant, UK",
+      "deathPlace": "Lincolnshire, UK",
+      "prefix": "Sir",
+      "suffix": "2nd Lord of Beaumont",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.017078535342203827"
+      ],
+      "children": [
+        "0.4238733037515199"
+      ]
+    }
+  },
+  {
+    "id": "0.4238733037515199",
+    "data": {
+      "gender": "M",
+      "firstName": "Henry",
+      "lastName": "de Beaumont",
+      "birthDate": "1340",
+      "image": "",
+      "deathDate": "06/17/1369",
+      "birthPlace": "Falkington, UK",
+      "deathPlace": "Falkington, UK",
+      "prefix": "",
+      "suffix": "3rd Lord of Beaumont",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.017078535342203827",
+      "father": "0.5510058666787068",
+      "spouses": [
+        "0.11285375645749851"
+      ],
+      "children": [
+        "0.8869817546166636"
+      ]
+    }
+  },
+  {
+    "id": "0.11285375645749851",
+    "data": {
+      "gender": "F",
+      "firstName": "Margaret",
+      "lastName": "de Vere",
+      "birthDate": "04/27/1336",
+      "image": "",
+      "deathDate": "06/15/1398",
+      "birthPlace": "Oxford, UK",
+      "deathPlace": "Grey Friars, UK",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.4238733037515199"
+      ],
+      "children": [
+        "0.8869817546166636"
+      ]
+    }
+  },
+  {
+    "id": "0.8869817546166636",
+    "data": {
+      "gender": "F",
+      "firstName": "Eleanor",
+      "lastName": "de Beaumont",
+      "birthDate": "1363",
+      "image": "",
+      "deathDate": "02/14/1380",
+      "birthPlace": "Falkington, UK",
+      "deathPlace": "Stokes, Poges, UK",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.11285375645749851",
+      "father": "0.4238733037515199",
+      "spouses": [
+        "0.06851107085995634"
+      ],
+      "children": [
+        "0.24381807177957393"
+      ]
+    }
+  },
+  {
+    "id": "0.06851107085995634",
+    "data": {
+      "gender": "M",
+      "firstName": "Richard",
+      "lastName": "de Moleyns",
+      "birthDate": "1352",
+      "image": "",
+      "deathDate": "12/13/1384",
+      "birthPlace": "Stokes Poges, England",
+      "deathPlace": "Stokes Poges, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.8869817546166636"
+      ],
+      "children": [
+        "0.24381807177957393"
+      ]
+    }
+  },
+  {
+    "id": "0.24381807177957393",
+    "data": {
+      "gender": "M",
+      "firstName": "William",
+      "lastName": "de Moleyns",
+      "birthDate": "01/07/1378",
+      "image": "",
+      "deathDate": "05/08/1429",
+      "birthPlace": "01/07/1377",
+      "deathPlace": "06/08/1425",
+      "prefix": "Sir",
+      "suffix": "",
+      "description": "https://www.geni.com/people/Sir-William-de-Moleyns/6000000003615575575",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.8869817546166636",
+      "father": "0.06851107085995634",
+      "spouses": [
+        "0.6647098805404072"
+      ],
+      "children": [
+        "0.0872487364923702"
+      ]
+    }
+  },
+  {
+    "id": "0.6647098805404072",
+    "data": {
+      "gender": "F",
+      "firstName": "Margery",
+      "lastName": "Whalesborough",
+      "birthDate": "1381",
+      "image": "",
+      "deathDate": "03/26/1439",
+      "birthPlace": "London, England",
+      "deathPlace": "Stokes Poges, UK",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.24381807177957393"
+      ],
+      "children": [
+        "0.0872487364923702"
+      ]
+    }
+  },
+  {
+    "id": "0.0872487364923702",
+    "data": {
+      "gender": "M",
+      "firstName": "William ",
+      "lastName": "de Moleyns",
+      "birthDate": "12/08/1405",
+      "image": "",
+      "deathDate": "05/08/1429",
+      "birthPlace": "Stokes Page, England",
+      "deathPlace": "Siege or Orleans, France",
+      "prefix": "Sir",
+      "suffix": "5th Baron Moleyns",
+      "description": "https://www.geni.com/people/Sir-William-de-Moleyns/6000000003615575575",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6647098805404072",
+      "father": "0.24381807177957393",
+      "spouses": [
+        "0.4483945489796901"
+      ],
+      "children": [
+        "0.5459501285493433"
+      ]
+    }
+  },
+  {
+    "id": "0.4483945489796901",
+    "data": {
+      "gender": "F",
+      "firstName": "Anne",
+      "lastName": "Whalesborough",
+      "birthDate": "1412",
+      "image": "",
+      "deathDate": "1468",
+      "birthPlace": "Cornwall",
+      "deathPlace": "London, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.0872487364923702"
+      ],
+      "children": [
+        "0.5459501285493433"
+      ]
+    }
+  },
+  {
+    "id": "0.5459501285493433",
+    "data": {
+      "gender": "F",
+      "firstName": "Eleanor",
+      "lastName": "de Moleyns",
+      "birthDate": "06/11/1426",
+      "image": "",
+      "deathDate": "03/10/1476",
+      "birthPlace": "Stokes Poges, England",
+      "deathPlace": "Stokes Poges, England",
+      "prefix": "",
+      "suffix": "Lady of Hungerford",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.4483945489796901",
+      "father": "0.0872487364923702",
+      "spouses": [
+        "0.5144123612287086"
+      ],
+      "children": [
+        "0.6513095463834011"
+      ]
+    }
+  },
+  {
+    "id": "0.5144123612287086",
+    "data": {
+      "gender": "M",
+      "firstName": "Robert",
+      "lastName": "Hungerford",
+      "birthDate": "1409",
+      "image": "",
+      "deathDate": "05/18/1459",
+      "birthPlace": "Wiltshire, England",
+      "deathPlace": "Wiltshire, England",
+      "prefix": "Lord",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.5459501285493433"
+      ],
+      "children": [
+        "0.6513095463834011"
+      ]
+    }
+  },
+  {
+    "id": "0.6513095463834011",
+    "data": {
+      "gender": "F",
+      "firstName": "Alice (Eleanor)",
+      "lastName": "Hungerford",
+      "birthDate": "06/11/1426",
+      "image": "",
+      "deathDate": "1471",
+      "birthPlace": "Swanborne, England",
+      "deathPlace": "Swanborne, England ",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.5459501285493433",
+      "father": "0.5144123612287086",
+      "spouses": [
+        "0.6539510930826851"
+      ],
+      "children": [
+        "0.15234792907886652"
+      ]
+    }
+  },
+  {
+    "id": "0.6539510930826851",
+    "data": {
+      "gender": "M",
+      "firstName": "John",
+      "lastName": "White",
+      "birthDate": "1422",
+      "image": "",
+      "deathDate": "1469",
+      "birthPlace": "Swanborne, England",
+      "deathPlace": "England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6513095463834011"
+      ],
+      "children": [
+        "0.15234792907886652"
+      ]
+    }
+  },
+  {
+    "id": "0.15234792907886652",
+    "data": {
+      "gender": "M",
+      "firstName": "Robert",
+      "lastName": "White",
+      "birthDate": "1456",
+      "image": "",
+      "deathDate": "08/04/1513",
+      "birthPlace": "Swanborne, England",
+      "deathPlace": "South Warnborogh, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6513095463834011",
+      "father": "0.6539510930826851",
+      "spouses": [
+        "0.7734487863909596"
+      ],
+      "children": [
+        "0.9327189713297919"
+      ]
+    }
+  },
+  {
+    "id": "0.7734487863909596",
+    "data": {
+      "gender": "F",
+      "firstName": "Margaret",
+      "lastName": "Gainsford",
+      "birthDate": "1440",
+      "image": "",
+      "deathDate": "1498",
+      "birthPlace": "Swanborne, England",
+      "deathPlace": "Unknown",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.15234792907886652"
+      ],
+      "children": [
+        "0.9327189713297919"
+      ]
+    }
+  },
+  {
+    "id": "0.9327189713297919",
+    "data": {
+      "gender": "M",
+      "firstName": "Robert",
+      "lastName": "White",
+      "birthDate": "1474",
+      "image": "",
+      "deathDate": "1520",
+      "birthPlace": "Swanborne, England",
+      "deathPlace": "England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.7734487863909596",
+      "father": "0.15234792907886652",
+      "spouses": [
+        "0.05300279148494047"
+      ],
+      "children": [
+        "0.6859323550716172"
+      ]
+    }
+  },
+  {
+    "id": "0.05300279148494047",
+    "data": {
+      "gender": "F",
+      "firstName": "Elizabeth",
+      "lastName": "Inglefield",
+      "birthDate": "1468",
+      "image": "",
+      "deathDate": "1534",
+      "birthPlace": "Southambornow, England",
+      "deathPlace": "England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.9327189713297919"
+      ],
+      "children": [
+        "0.6859323550716172"
+      ]
+    }
+  },
+  {
+    "id": "0.6556489694710177",
+    "data": {
+      "gender": "F",
+      "firstName": "Agnes",
+      "lastName": "Richards",
+      "birthDate": "1495",
+      "image": "",
+      "deathDate": "02/12/1550",
+      "birthPlace": "Marriot, Somerset",
+      "deathPlace": "Hill Farence, Somerset, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": []
+    }
+  },
+  {
+    "id": "0.6859323550716172",
+    "data": {
+      "gender": "M",
+      "firstName": "Thomas",
+      "lastName": "White",
+      "birthDate": "1490",
+      "image": "",
+      "deathDate": "1549",
+      "birthPlace": "Marriot, Somerset",
+      "deathPlace": "Martock, Somerset, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.05300279148494047",
+      "father": "0.9327189713297919",
+      "spouses": [
+        "0.4490513076117113"
+      ],
+      "children": [
+        "0.6949372350339531"
+      ]
+    }
+  },
+  {
+    "id": "0.4490513076117113",
+    "data": {
+      "gender": "F",
+      "firstName": "Agnes",
+      "lastName": "Richards",
+      "birthDate": "1495",
+      "image": "",
+      "deathDate": "02/12/1550",
+      "birthPlace": "Marriot, Somerset, England",
+      "deathPlace": "Hill Farence, Somerset, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6859323550716172"
+      ],
+      "children": [
+        "0.6949372350339531"
+      ]
+    }
+  },
+  {
+    "id": "0.6949372350339531",
+    "data": {
+      "gender": "M",
+      "firstName": "Thomas",
+      "lastName": "White",
+      "birthDate": "1525",
+      "image": "",
+      "deathDate": "10/14/1579",
+      "birthPlace": "Nottinghamshire, England",
+      "deathPlace": "Nottinghamshire, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.4490513076117113",
+      "father": "0.6859323550716172",
+      "spouses": [
+        "0.08206997166858465"
+      ],
+      "children": [
+        "0.3921687475032365"
+      ]
+    }
+  },
+  {
+    "id": "0.08206997166858465",
+    "data": {
+      "gender": "F",
+      "firstName": "Tamesen",
+      "lastName": "White",
+      "birthDate": "1526",
+      "image": "",
+      "deathDate": "1554",
+      "birthPlace": "Somerset, England",
+      "deathPlace": "England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.6949372350339531"
+      ],
+      "children": [
+        "0.3921687475032365"
+      ]
+    }
+  },
+  {
+    "id": "0.3921687475032365",
+    "data": {
+      "gender": "M",
+      "firstName": "Edward",
+      "lastName": "White",
+      "birthDate": "1560",
+      "image": "",
+      "deathDate": "c. 1594",
+      "birthPlace": "Nottinghamshire, England",
+      "deathPlace": "Cambridgeshire, ENgland",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.08206997166858465",
+      "father": "0.6949372350339531",
+      "spouses": [
+        "0.31977453840135905"
+      ],
+      "children": [
+        "0.11015883706360108"
+      ]
+    }
+  },
+  {
+    "id": "0.31977453840135905",
+    "data": {
+      "gender": "F",
+      "firstName": "Thomasine",
+      "lastName": "Cross",
+      "birthDate": "c. 1550",
+      "image": "",
+      "deathDate": "11/10/1591",
+      "birthPlace": "Cambridgeshire, England",
+      "deathPlace": "Cambridgeshire, England",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.3921687475032365"
+      ],
+      "children": [
+        "0.11015883706360108"
+      ]
+    }
+  },
+  {
+    "id": "0.11015883706360108",
+    "data": {
+      "gender": "M",
+      "firstName": "William",
+      "lastName": "White",
+      "birthDate": "11/10/1591",
+      "image": "",
+      "deathDate": "02/21/1621",
+      "birthPlace": "Beaminster, England",
+      "deathPlace": "Plymouth, Massachusetts, USA",
+      "prefix": "",
+      "suffix": "",
+      "description": "Came on the Mayflower",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.31977453840135905",
+      "father": "0.3921687475032365",
+      "spouses": [
+        "0.011627237750728492"
+      ],
+      "children": [
+        "0.5102172908961047"
+      ]
+    }
+  },
+  {
+    "id": "0.011627237750728492",
+    "data": {
+      "gender": "F",
+      "firstName": "Susan",
+      "lastName": "Winslow",
+      "birthDate": "1592",
+      "image": "",
+      "deathDate": "Unknown",
+      "birthPlace": "Scooby, England",
+      "deathPlace": "Marshfield, Plymouth Colony Massachusetts, USA",
+      "prefix": "",
+      "suffix": "",
+      "description": "Came on Mayflower",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.11015883706360108"
+      ],
+      "children": [
+        "0.5102172908961047"
+      ]
+    }
+  },
+  {
+    "id": "0.5102172908961047",
+    "data": {
+      "gender": "M",
+      "firstName": "Resolved",
+      "lastName": "White",
+      "birthDate": "09/09/1615",
+      "image": "",
+      "deathDate": "09/19/1687",
+      "birthPlace": "Leyden, Holland",
+      "deathPlace": "Salem, Massachusetts",
+      "prefix": "",
+      "suffix": "",
+      "description": "Came on Mayflower",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.011627237750728492",
+      "father": "0.11015883706360108",
+      "spouses": [
+        "0.6327520229572265"
+      ],
+      "children": [
+        "0.6774694450182146"
+      ]
+    }
+  },
+  {
+    "id": "0.6327520229572265",
+    "data": {
+      "gender": "F",
+      "firstName": "Judith",
+      "lastName": "Vassall",
+      "birthDate": "1619",
+      "image": "",
+      "deathDate": "04/03/1670",
+      "birthPlace": "Stephney, Middlesex, England",
+      "deathPlace": "Marshfield, Massachusetts, USA",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "spouses": [
+        "0.5102172908961047"
+      ],
+      "children": [
+        "0.6774694450182146"
+      ]
+    }
+  },
+  {
+    "id": "0.6774694450182146",
+    "data": {
+      "gender": "F",
+      "firstName": "Ann",
+      "lastName": "White",
+      "birthDate": "06/04/1644",
+      "image": "",
+      "deathDate": "1687",
+      "birthPlace": "Plymouth, Mass., USA",
+      "deathPlace": "South Hampton, NY, USA",
+      "prefix": "",
+      "suffix": "",
+      "description": "",
+      "middleName": ""
+    },
+    "rels": {
+      "mother": "0.6327520229572265",
+      "father": "0.5102172908961047"
+    }
+  }
+]
